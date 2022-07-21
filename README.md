@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi I'm Ibimina Hart  👋
+## A frontend developer 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibimina&langs_count=8)](https://github.com/ibimina/github-readme-stats)
+[![Ibimina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibimina&show_icons=true)](https://github.com/ibimina/github-readme-stats)
 
 <!--
 **ibimina/ibimina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
