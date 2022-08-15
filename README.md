@@ -1,6 +1,11 @@
 ## Hi I'm Ibimina Hart  👋
 ## A frontend developer
 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ibiminaaH)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ibimina-hart/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/ibimina)
+
+
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=cocktail-recipes&show_owner=true)](https://github.com/ibimina/cocktail-recipes) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=interactive-comments-section-main&show_owner=true)](https://github.com/ibimina/interactive-comments-section-main) 
