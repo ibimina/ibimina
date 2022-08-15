@@ -1,9 +1,12 @@
 ## Hi I'm Ibimina Hart  👋
-## A frontend developer 
+## A frontend developer
+
+##Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=cocktail-recipes&show_owner=true)](https://github.com/ibimina/cocktail-recipes) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=interactive-comments-section-main&show_owner=true)](https://github.com/ibimina/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=interactive-comments-section-main&show_owner=true)](https://github.com/ibimina/interactive-comments-section-main) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=rock-paper-scissors-game&show_owner=true)](https://github.com/ibimina/rock-paper-scissors-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=static-job-listings-master&show_owner=true)](https://github.com/ibimina/static-job-listings-master)
+## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibimina&langs_count=8)](https://github.com/ibimina/github-readme-stats)
 [![Ibimina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibimina&show_icons=true)](https://github.com/ibimina/github-readme-stats)
 
