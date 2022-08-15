@@ -1,7 +1,7 @@
 ## Hi I'm Ibimina Hart  👋
 ## A frontend developer
 
-##Projects
+## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=cocktail-recipes&show_owner=true)](https://github.com/ibimina/cocktail-recipes) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=interactive-comments-section-main&show_owner=true)](https://github.com/ibimina/interactive-comments-section-main) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=rock-paper-scissors-game&show_owner=true)](https://github.com/ibimina/rock-paper-scissors-game)
