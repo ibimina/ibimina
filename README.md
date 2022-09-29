@@ -3,8 +3,9 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 ***
-_A Front-end developer who loves coding and building things that live on the internet.  My passion stems from a strong desire to create interfaces that are both usable and enjoyable for users. 
+A Front-end developer who loves coding and building things that live on the internet.  My passion stems from a strong desire to create interfaces that are both usable and enjoyable for users. 
 
+<p>Let's connect</p>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ibiminaaH)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ibimina-hart/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/ibimina)
