@@ -16,7 +16,7 @@ A Front-end developer who loves coding and building things that live on the inte
 const ibimina = {
   openTowork: true,
   position:  "Front-end developer",
-  lookingTo:  "Collaborate and contribute in open source project",
+  lookingTo:  "Collaborate and contribute to open source project",
   pronouns: ["she", "her"],
   askMeAbout: [ "Movies", "Tennis"],
   challenge: "I am honing my React skills",
