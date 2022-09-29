@@ -6,12 +6,13 @@
 A Front-end developer who loves coding and building things that live on the internet.  My passion stems from a strong desire to create interfaces that are both usable and enjoyable for users. 
 
 <p>Let's connect</p>
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ibiminaaH)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ibimina-hart/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/ibimina)
 
 
-```javascript
+```Javascript
 const ibimina = {
   openTowork: true,
   position:  "Front-end developer",
@@ -21,7 +22,6 @@ const ibimina = {
   challenge: "I am honing my React skills",
   reachMe: "ibimina.c.hart@gmail.com"
 }
-
 ```
 
 ## Projects
@@ -34,3 +34,4 @@ const ibimina = {
 [![Ibimina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibimina&show_icons=true)](https://github.com/ibimina/github-readme-stats)
 
 
+<p align="center">Check out my <a href="https://ibimina.github.io/ibimina-portfolio/" target="_blank"> portfolio </a></p>
