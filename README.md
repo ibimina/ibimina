@@ -30,8 +30,9 @@ const ibimina = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=rock-paper-scissors-game&show_owner=true)](https://github.com/ibimina/rock-paper-scissors-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=static-job-listings-master&show_owner=true)](https://github.com/ibimina/static-job-listings-master)
 ## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibimina&langs_count=8)](https://github.com/ibimina/github-readme-stats)
-[![Ibimina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibimina&show_icons=true)](https://github.com/ibimina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibimina&langs_count=8&theme=radical)](https://github.com/ibimina/github-readme-stats)
 
+[![Ibimina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibimina&show_icons=true&theme=radical)](https://github.com/ibimina/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibimina&theme=radical)](https://git.io/streak-stats)
 
 <p align="center">Check out my <a href="https://ibimina.github.io/ibimina-portfolio/" target="_blank"> portfolio </a></p>
