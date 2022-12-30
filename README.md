@@ -35,4 +35,7 @@ const ibimina = {
 [![Ibimina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibimina&show_icons=true&theme=radical)](https://github.com/ibimina/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ibimina&theme=radical)](https://git.io/streak-stats)
 
+
+[![An image of @Ibimina's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Ibimina)](https://holopin.io/@Ibimina)
+
 <p align="center">Check out my <a href="https://ibimina.github.io/ibimina-portfolio/" target="_blank"> portfolio </a></p>
