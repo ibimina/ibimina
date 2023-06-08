@@ -24,11 +24,6 @@ const ibimina = {
 }
 ```
 
-## Projects
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=cocktail-recipes&show_owner=true)](https://github.com/ibimina/cocktail-recipes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=interactive-comments-section-main&show_owner=true)](https://github.com/ibimina/interactive-comments-section-main) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=rock-paper-scissors-game&show_owner=true)](https://github.com/ibimina/rock-paper-scissors-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibimina&repo=static-job-listings-master&show_owner=true)](https://github.com/ibimina/static-job-listings-master)
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibimina&langs_count=8&theme=radical)](https://github.com/ibimina/github-readme-stats)
 
@@ -38,4 +33,4 @@ const ibimina = {
 
 [![An image of @Ibimina's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Ibimina)](https://holopin.io/@Ibimina)
 
-<p align="center">Check out my <a href="https://ibimina.github.io/ibimina-portfolio/" target="_blank"> portfolio </a></p>
+<p align="center">Check out my <a href="https://ibimina-portfolio.vercel.app/" target="_blank"> portfolio </a></p>
