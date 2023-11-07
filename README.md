@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 ***
-A Front-end developer who loves coding and building things that live on the internet.  My passion stems from a strong desire to create interfaces that are both usable and enjoyable for users. 
+A Software developer who loves coding and building things that live on the internet.  My passion stems from a strong desire to create interfaces that are both usable and enjoyable for users. 
 
 <p>Let's connect</p>
 
@@ -15,11 +15,11 @@ A Front-end developer who loves coding and building things that live on the inte
 ```Javascript
 const ibimina = {
   openTowork: true,
-  position:  "Front-end developer",
+  position:  "Software developer",
   lookingTo:  "Collaborate and contribute to open source project",
   pronouns: ["she", "her"],
   askMeAbout: [ "Movies", "Tennis"],
-  challenge: "I am honing my React skills",
+  challenge: "I am honing my Nestjs skills",
   reachMe: "ibimina.c.hart@gmail.com"
 }
 ```
