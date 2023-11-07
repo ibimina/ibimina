@@ -33,4 +33,3 @@ const ibimina = {
 
 [![An image of @Ibimina's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Ibimina)](https://holopin.io/@Ibimina)
 
-<p align="center">Check out my <a href="https://ibimina-portfolio.vercel.app/" target="_blank"> portfolio </a></p>
