@@ -1,5 +1,5 @@
 
-### Hi there, I am Ibimina Christiana Hart 👋:woman:  
+### Hi there, I am Christiana Hart 👋👩  
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 ***
@@ -19,7 +19,6 @@ const ibimina = {
   lookingTo:  "Collaborate and contribute to open source project",
   pronouns: ["she", "her"],
   askMeAbout: [ "Movies", "Tennis"],
-  challenge: "I am honing my Nestjs skills",
   reachMe: "ibimina.c.hart@gmail.com"
 }
 ```
